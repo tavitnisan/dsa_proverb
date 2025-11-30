@@ -1,0 +1,303 @@
+FINAL RURAL IDIOM RESEARCH REPORT
+=================================
+
+LANGUAGE: EN
+Total Lines: 22,512,639
+TOTAL RURAL DENSITY: 774.05 idioms/million lines
+----------------------------------------
+7864   | cows come home
+3492   | grist for the mill
+1496   | walking on eggshells
+745    | when pigs fly
+656    | bull by the horns
+514    | chicken out
+297    | run of the mill
+286    | beat a dead horse
+281    | wild goose chase
+269    | sitting duck
+269    | eggs in one basket
+235    | hold your horses
+174    | needle in a haystack
+148    | black sheep
+145    | last straw
+119    | reap what you sow
+82     | dark horse
+76     | wolf in sheep
+59     | wheat from the chaff
+52     | bull in a china shop
+49     | count your chickens
+46     | make hay
+33     | pig in a poke
+26     | kill the goose
+13     | headless chicken
+
+LANGUAGE: TR
+Total Lines: 44,986,121
+TOTAL RURAL DENSITY: 1988.86 idioms/million lines
+----------------------------------------
+84813  | el elin eşeğini
+1142   | tatlı dil yılanı
+768    | komşu komşunun
+646    | kaz gelecek yerden
+642    | aç ayı oynamaz
+434    | atı alan üsküdar
+283    | meyve veren ağaç
+274    | damlaya damlaya göl
+102    | dereyi görmeden
+83     | üzüm üzüme baka
+75     | bal tutan
+41     | görünen köy
+31     | öküz öldü
+29     | çam sakızı çoban
+24     | sütten ağzı yanan
+20     | sakla samanı
+18     | ayıkla pirincin
+10     | keskin sirke
+8      | besle kargayı
+8      | kurt dumanlı havayı
+7      | pirince giderken
+6      | it ürür kervan
+3      | eşeğin aklına karpuz
+2      | tavşan dağa küsmüş
+2      | horoz ölür
+
+LANGUAGE: DE
+Total Lines: 22,512,639
+TOTAL RURAL DENSITY: 583.76 idioms/million lines
+----------------------------------------
+4091   | tomaten auf den augen
+3807   | mit den hühnern schlafen
+1394   | radieschen von unten
+808    | katze im sack
+469    | schwein haben
+430    | blatt vor den mund
+405    | ochs am berg
+332    | höhle des löwen
+268    | ins gras beißen
+215    | schwarze schaf
+175    | hahn im korb
+163    | elefant im porzellanladen
+91     | gras wachsen hören
+89     | eulen nach athen
+89     | stier bei den hörnern
+74     | perlen vor die säue
+51     | hund begraben
+43     | ist mir wurst
+39     | flinte ins korn
+32     | geschenkten gaul
+29     | pferde stehlen
+27     | blindes huhn
+15     | steppt der bär
+5      | schwalbe macht keinen sommer
+1      | korn und spreu
+
+LANGUAGE: FR
+Total Lines: 41,763,488
+TOTAL RURAL DENSITY: 4385.10 idioms/million lines
+----------------------------------------
+151382 | faire l'autruche
+14185  | un tiens vaut mieux
+7839   | peau de l'ours
+2504   | vache à lait
+1775   | raconter des salades
+1014   | chair de poule
+888    | doux comme un agneau
+822    | poule aux oeufs
+388    | taureau par les cornes
+317    | sur le champignon
+295    | aiguille dans une botte
+244    | fouetter un chat
+208    | sur ses grands chevaux
+191    | nos moutons
+167    | faim de loup
+165    | confiture aux cochons
+163    | carottes sont cuites
+135    | poser un lapin
+128    | poules auront des dents
+87     | charrue avant les boeufs
+80     | dindon de la farce
+74     | tomber dans les pommes
+39     | avoir le cafard
+26     | vole un oeuf
+21     | chèvre et le chou
+
+LANGUAGE: ES
+Total Lines: 61,434,251
+TOTAL RURAL DENSITY: 4187.76 idioms/million lines
+----------------------------------------
+149626 | ojos que no ven
+59127  | casa por la ventana
+17307  | no por mucho madrugar
+11557  | agua a su molino
+4281   | ser pan comido
+2618   | margaritas a los cerdos
+2053   | camarón que se duerme
+2020   | gato por liebre
+1826   | otro perro con ese hueso
+1434   | dos pájaros de un tiro
+1060   | toro por los cuernos
+1015   | oveja con su pareja
+930    | como una cabra
+579    | boca cerrada no entran
+563    | aguja en un pajar
+430    | oveja negra
+377    | gallina de los huevos
+177    | gato encerrado
+148    | pájaro en mano
+46     | perro ladrador
+42     | carne en el asador
+26     | burro grande
+21     | memoria de pez
+9      | siembra vientos
+0      | vendérsela la moto
+
+LANGUAGE: IT
+Total Lines: 35,216,229
+TOTAL RURAL DENSITY: 8035.33 idioms/million lines
+----------------------------------------
+96367  | non dire gatto
+79885  | tutto fa brodo
+41990  | buongiorno si vede
+32216  | raccogliere quello che si semina
+15098  | prendere in castagna
+6046   | erba del vicino
+4991   | bocca al lupo
+2097   | ago in un pagliaio
+1195   | sano come un pesce
+893    | capitare a fagiolo
+355    | due piccioni con una fava
+290    | piove sul bagnato
+251    | gallina dalle uova
+207    | pecora nera
+194    | fieno mentre c'è il sole
+193    | testa di rapa
+183    | chi dorme non piglia
+126    | patata bollente
+100    | tagliare i ponti
+99     | caval donato
+97     | pollice verde
+47     | carro davanti ai buoi
+29     | gallina vecchia
+18     | seminare zizzania
+7      | chiudere la stalla
+
+LANGUAGE: NL
+Total Lines: 37,200,621
+TOTAL RURAL DENSITY: 244.30 idioms/million lines
+----------------------------------------
+1909   | vooruit met de geit
+1446   | kippen op stok
+1204   | koe bij de horens
+755    | kip zonder kop
+635    | schaapjes op het droge
+521    | vis in het water
+489    | kat van huis
+485    | aap uit de mouw
+253    | kaal als de neten
+225    | kat in de zak
+192    | zwarte schaap
+143    | oude koeien
+125    | gegeven paard
+125    | kraait geen haan
+115    | bloemetjes buiten
+108    | vogel in de hand
+102    | hond in de pot
+91     | mug een olifant
+54     | hoge bomen
+48     | varkentje wassen
+21     | mierenneuker
+19     | uiltje knappen
+13     | haringen in een ton
+6      | hazenpad kiezen
+4      | abraham de mosterd
+
+LANGUAGE: PL
+Total Lines: 41,998,942
+TOTAL RURAL DENSITY: 314.70 idioms/million lines
+----------------------------------------
+9559   | koń by się uśmiał
+931    | kłamstwo ma krótkie
+806    | kto rano wstaje
+648    | zrobić kogoś w konia
+271    | igły w stogu
+137    | gdzie kucharek sześć
+129    | czarna owca
+94     | darowanemu koniowi
+83     | wilka z lasu
+82     | języka w gębie
+74     | wilk w owczej
+69     | między wrony
+65     | flaki z olejem
+52     | zbity pies
+51     | wystawić kogoś do wiatru
+34     | dużej chmury mały
+27     | kulą w płot
+25     | kota w worku
+18     | skóry na niedźwiedziu
+16     | zbijać bąki
+14     | muchy w nosie
+12     | gruszki na wierzbie
+10     | jaka praca taka płaca
+9      | wół do karety
+1      | tureckim kazaniu
+
+LANGUAGE: EL
+Total Lines: 40,492,942
+TOTAL RURAL DENSITY: 0.05 idioms/million lines
+----------------------------------------
+2      | gia ta panigíria
+0      | agourída méli
+0      | gáidaros ton peteinó
+0      | leípei i gáta
+0      | kamíla de vlépei
+0      | laloún polloí kokóroi
+0      | fasoúli to fasoúli
+0      | koutaliá neró
+0      | lýkos ki an egérase
+0      | chelidóni den férnei
+0      | fórtose ston kókora
+0      | sigá ta avgá
+0      | pollá kerásia
+0      | mílo káto apó
+0      | psári vromáei
+0      | píre to máti
+0      | lýko na fyláei
+0      | káne to kaló
+0      | péride óchi
+0      | mavró próvato
+0      | psýllous sta áchyra
+0      | megálo psári
+0      | gáta ti glóssa
+0      | kóta líra
+0      | petáei gaídaros
+
+LANGUAGE: RU
+Total Lines: 25,910,105
+TOTAL RURAL DENSITY: 9.42 idioms/million lines
+----------------------------------------
+183    | bab s vozu
+47     | volk v ovechey
+13     | kak s gusya
+1      | kota v meshke
+0      | shkuru neubitogo medvedya
+0      | darovanomu konyu
+0      | dyma bez ognya
+0      | yabloko ot yabloni
+0      | pervy blin komom
+0      | tsyplyat po oseni
+0      | rabota ne volk
+0      | tikhoy omute
+0      | goloden kak volk
+0      | puganaia vorona
+0      | dvumya zaytsami
+0      | ne vse kotu
+0      | lyubish katatsya
+0      | semi nyanek
+0      | kto rano vstaet
+0      | lozhka degtya
+0      | ne plyuy v kolodets
+0      | chto poseesh
+0      | khleb vsemu golova
+0      | slovo ne vorobey
+0      | belaya vorona
+

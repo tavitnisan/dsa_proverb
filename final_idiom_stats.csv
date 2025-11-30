@@ -1,0 +1,251 @@
+Language,Idiom,Count,Frequency_Per_Million
+en,wild goose chase,281,12.48
+en,count your chickens,49,2.18
+en,wolf in sheep,76,3.38
+en,black sheep,148,6.57
+en,hold your horses,235,10.44
+en,beat a dead horse,286,12.70
+en,dark horse,82,3.64
+en,cows come home,7864,349.31
+en,bull by the horns,656,29.14
+en,bull in a china shop,52,2.31
+en,pig in a poke,33,1.47
+en,when pigs fly,745,33.09
+en,needle in a haystack,174,7.73
+en,last straw,145,6.44
+en,make hay,46,2.04
+en,wheat from the chaff,59,2.62
+en,reap what you sow,119,5.29
+en,grist for the mill,3492,155.11
+en,run of the mill,297,13.19
+en,sitting duck,269,11.95
+en,chicken out,514,22.83
+en,headless chicken,13,0.58
+en,eggs in one basket,269,11.95
+en,walking on eggshells,1496,66.45
+en,kill the goose,26,1.15
+tr,damlaya damlaya göl,274,6.09
+tr,sakla samanı,20,0.44
+tr,dereyi görmeden,102,2.27
+tr,görünen köy,41,0.91
+tr,komşu komşunun,768,17.07
+tr,tatlı dil yılanı,1142,25.39
+tr,aç ayı oynamaz,642,14.27
+tr,besle kargayı,8,0.18
+tr,kaz gelecek yerden,646,14.36
+tr,atı alan üsküdar,434,9.65
+tr,eşeğin aklına karpuz,3,0.07
+tr,pirince giderken,7,0.16
+tr,kurt dumanlı havayı,8,0.18
+tr,sütten ağzı yanan,24,0.53
+tr,üzüm üzüme baka,83,1.85
+tr,tavşan dağa küsmüş,2,0.04
+tr,horoz ölür,2,0.04
+tr,el elin eşeğini,84813,1885.31
+tr,it ürür kervan,6,0.13
+tr,meyve veren ağaç,283,6.29
+tr,bal tutan,75,1.67
+tr,keskin sirke,10,0.22
+tr,öküz öldü,31,0.69
+tr,çam sakızı çoban,29,0.64
+tr,ayıkla pirincin,18,0.40
+de,hund begraben,51,2.27
+de,katze im sack,808,35.89
+de,schwarze schaf,215,9.55
+de,geschenkten gaul,32,1.42
+de,ist mir wurst,43,1.91
+de,schwein haben,469,20.83
+de,flinte ins korn,39,1.73
+de,eulen nach athen,89,3.95
+de,stier bei den hörnern,89,3.95
+de,hahn im korb,175,7.77
+de,schwalbe macht keinen sommer,5,0.22
+de,mit den hühnern schlafen,3807,169.11
+de,blindes huhn,27,1.20
+de,perlen vor die säue,74,3.29
+de,elefant im porzellanladen,163,7.24
+de,gras wachsen hören,91,4.04
+de,ins gras beißen,268,11.90
+de,pferde stehlen,29,1.29
+de,blatt vor den mund,430,19.10
+de,steppt der bär,15,0.67
+de,ochs am berg,405,17.99
+de,radieschen von unten,1394,61.92
+de,tomaten auf den augen,4091,181.72
+de,höhle des löwen,332,14.75
+de,korn und spreu,1,0.04
+fr,nos moutons,191,4.57
+fr,poules auront des dents,128,3.06
+fr,peau de l'ours,7839,187.70
+fr,avoir le cafard,39,0.93
+fr,chèvre et le chou,21,0.50
+fr,charrue avant les boeufs,87,2.08
+fr,raconter des salades,1775,42.50
+fr,tomber dans les pommes,74,1.77
+fr,carottes sont cuites,163,3.90
+fr,sur le champignon,317,7.59
+fr,aiguille dans une botte,295,7.06
+fr,vache à lait,2504,59.96
+fr,taureau par les cornes,388,9.29
+fr,vole un oeuf,26,0.62
+fr,un tiens vaut mieux,14185,339.65
+fr,fouetter un chat,244,5.84
+fr,confiture aux cochons,165,3.95
+fr,faim de loup,167,4.00
+fr,faire l'autruche,151382,3624.75
+fr,doux comme un agneau,888,21.26
+fr,poule aux oeufs,822,19.68
+fr,chair de poule,1014,24.28
+fr,sur ses grands chevaux,208,4.98
+fr,poser un lapin,135,3.23
+fr,dindon de la farce,80,1.92
+es,pájaro en mano,148,2.41
+es,como una cabra,930,15.14
+es,otro perro con ese hueso,1826,29.72
+es,no por mucho madrugar,17307,281.72
+es,oveja con su pareja,1015,16.52
+es,casa por la ventana,59127,962.44
+es,boca cerrada no entran,579,9.42
+es,camarón que se duerme,2053,33.42
+es,gato por liebre,2020,32.88
+es,agua a su molino,11557,188.12
+es,carne en el asador,42,0.68
+es,ser pan comido,4281,69.68
+es,toro por los cuernos,1060,17.25
+es,burro grande,26,0.42
+es,margaritas a los cerdos,2618,42.61
+es,dos pájaros de un tiro,1434,23.34
+es,ojos que no ven,149626,2435.55
+es,perro ladrador,46,0.75
+es,siembra vientos,9,0.15
+es,oveja negra,430,7.00
+es,memoria de pez,21,0.34
+es,vendérsela la moto,0,0.00
+es,aguja en un pajar,563,9.16
+es,gallina de los huevos,377,6.14
+es,gato encerrado,177,2.88
+it,bocca al lupo,4991,141.72
+it,sano come un pesce,1195,33.93
+it,due piccioni con una fava,355,10.08
+it,non dire gatto,96367,2736.44
+it,gallina vecchia,29,0.82
+it,testa di rapa,193,5.48
+it,capitare a fagiolo,893,25.36
+it,prendere in castagna,15098,428.72
+it,patata bollente,126,3.58
+it,chi dorme non piglia,183,5.20
+it,buongiorno si vede,41990,1192.35
+it,erba del vicino,6046,171.68
+it,piove sul bagnato,290,8.23
+it,tutto fa brodo,79885,2268.41
+it,raccogliere quello che si semina,32216,914.81
+it,fieno mentre c'è il sole,194,5.51
+it,carro davanti ai buoi,47,1.33
+it,seminare zizzania,18,0.51
+it,pollice verde,97,2.75
+it,tagliare i ponti,100,2.84
+it,gallina dalle uova,251,7.13
+it,ago in un pagliaio,2097,59.55
+it,pecora nera,207,5.88
+it,chiudere la stalla,7,0.20
+it,caval donato,99,2.81
+nl,koe bij de horens,1204,32.37
+nl,haringen in een ton,13,0.35
+nl,zwarte schaap,192,5.16
+nl,gegeven paard,125,3.36
+nl,kat van huis,489,13.14
+nl,hond in de pot,102,2.74
+nl,hoge bomen,54,1.45
+nl,vogel in de hand,108,2.90
+nl,oude koeien,143,3.84
+nl,aap uit de mouw,485,13.04
+nl,kippen op stok,1446,38.87
+nl,kat in de zak,225,6.05
+nl,vooruit met de geit,1909,51.32
+nl,schaapjes op het droge,635,17.07
+nl,hazenpad kiezen,6,0.16
+nl,varkentje wassen,48,1.29
+nl,kaal als de neten,253,6.80
+nl,kraait geen haan,125,3.36
+nl,kip zonder kop,755,20.30
+nl,mierenneuker,21,0.56
+nl,mug een olifant,91,2.45
+nl,vis in het water,521,14.01
+nl,uiltje knappen,19,0.51
+nl,bloemetjes buiten,115,3.09
+nl,abraham de mosterd,4,0.11
+pl,skóry na niedźwiedziu,18,0.43
+pl,tureckim kazaniu,1,0.02
+pl,zrobić kogoś w konia,648,15.43
+pl,muchy w nosie,14,0.33
+pl,flaki z olejem,65,1.55
+pl,zbity pies,52,1.24
+pl,wilk w owczej,74,1.76
+pl,kota w worku,25,0.60
+pl,darowanemu koniowi,94,2.24
+pl,gdzie kucharek sześć,137,3.26
+pl,jaka praca taka płaca,10,0.24
+pl,kto rano wstaje,806,19.19
+pl,wilka z lasu,83,1.98
+pl,igły w stogu,271,6.45
+pl,kulą w płot,27,0.64
+pl,wystawić kogoś do wiatru,51,1.21
+pl,języka w gębie,82,1.95
+pl,dużej chmury mały,34,0.81
+pl,kłamstwo ma krótkie,931,22.17
+pl,czarna owca,129,3.07
+pl,między wrony,69,1.64
+pl,koń by się uśmiał,9559,227.60
+pl,wół do karety,9,0.21
+pl,zbijać bąki,16,0.38
+pl,gruszki na wierzbie,12,0.29
+el,agourída méli,0,0.00
+el,gáidaros ton peteinó,0,0.00
+el,leípei i gáta,0,0.00
+el,kamíla de vlépei,0,0.00
+el,laloún polloí kokóroi,0,0.00
+el,fasoúli to fasoúli,0,0.00
+el,gia ta panigíria,2,0.05
+el,koutaliá neró,0,0.00
+el,lýkos ki an egérase,0,0.00
+el,chelidóni den férnei,0,0.00
+el,fórtose ston kókora,0,0.00
+el,sigá ta avgá,0,0.00
+el,pollá kerásia,0,0.00
+el,mílo káto apó,0,0.00
+el,psári vromáei,0,0.00
+el,píre to máti,0,0.00
+el,lýko na fyláei,0,0.00
+el,káne to kaló,0,0.00
+el,péride óchi,0,0.00
+el,mavró próvato,0,0.00
+el,psýllous sta áchyra,0,0.00
+el,megálo psári,0,0.00
+el,gáta ti glóssa,0,0.00
+el,kóta líra,0,0.00
+el,petáei gaídaros,0,0.00
+ru,shkuru neubitogo medvedya,0,0.00
+ru,volk v ovechey,47,1.81
+ru,kota v meshke,1,0.04
+ru,darovanomu konyu,0,0.00
+ru,dyma bez ognya,0,0.00
+ru,bab s vozu,183,7.06
+ru,yabloko ot yabloni,0,0.00
+ru,pervy blin komom,0,0.00
+ru,tsyplyat po oseni,0,0.00
+ru,rabota ne volk,0,0.00
+ru,tikhoy omute,0,0.00
+ru,goloden kak volk,0,0.00
+ru,kak s gusya,13,0.50
+ru,puganaia vorona,0,0.00
+ru,dvumya zaytsami,0,0.00
+ru,ne vse kotu,0,0.00
+ru,lyubish katatsya,0,0.00
+ru,semi nyanek,0,0.00
+ru,kto rano vstaet,0,0.00
+ru,lozhka degtya,0,0.00
+ru,ne plyuy v kolodets,0,0.00
+ru,chto poseesh,0,0.00
+ru,khleb vsemu golova,0,0.00
+ru,slovo ne vorobey,0,0.00
+ru,belaya vorona,0,0.00
